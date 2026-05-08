@@ -1,0 +1,700 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Unity3D\\Project\\2DAdventure\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\Audio\\AudioManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\Audio\\AudioManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\ScriptableObject\\PlayAudioEventSO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\ScriptableObject\\PlayAudioEventSO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\Enemy\\SnailPatrolState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\Enemy\\SnailPatrolState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\Player\\PlayerAnimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\Player\\PlayerAnimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\Save Load\\Data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\Save Load\\Data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\Save Load\\DataDefination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\Save Load\\DataDefination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\ScriptableObject\\FloatEventSO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\ScriptableObject\\FloatEventSO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|d:\\unity3d\\project\\2dadventure\\assets\\scripts\\ui\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\UI\\PlayerStatBar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\UI\\PlayerStatBar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|D:\\Unity3D\\Project\\2DAdventure\\assets\\scripts\\transition\\initalload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\transition\\initalload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\Save Load\\DataManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\Save Load\\DataManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\Transition\\SceneLoader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\Transition\\SceneLoader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\Save Load\\ISaveable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\Save Load\\ISaveable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\Save Load\\SavePoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\Save Load\\SavePoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\UI\\Menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\UI\\Menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\ScriptableObject\\FadeEventSO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\ScriptableObject\\FadeEventSO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\UI\\FadeCanvas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\UI\\FadeCanvas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\Utilities\\Enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\Utilities\\Enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\ScriptableObject\\GameSceneSO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\ScriptableObject\\GameSceneSO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\Transition\\TeleportPoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\Transition\\TeleportPoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\General\\Chest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\General\\Chest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\Player\\Sign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\Player\\Sign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\Utilities\\IInteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\Utilities\\IInteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\Audio\\AudioDefination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\Audio\\AudioDefination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\ScriptableObject\\VoidEventSO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\ScriptableObject\\VoidEventSO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\Utilities\\CameraControl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\Utilities\\CameraControl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\ScriptableObject\\CharacterEventSO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\ScriptableObject\\CharacterEventSO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\Enemy\\BeeChaseState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\Enemy\\BeeChaseState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\Enemy\\BeePatrolState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\Enemy\\BeePatrolState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\Enemy\\Bee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\Enemy\\Bee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\Enemy\\SnailSkillState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\Enemy\\SnailSkillState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\Enemy\\Snail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\Enemy\\Snail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\Enemy\\BoarChaseState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\Enemy\\BoarChaseState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\Enemy\\BoarPatrolState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\Enemy\\BoarPatrolState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\Enemy\\Boar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\Enemy\\Boar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\Enemy\\Enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\Enemy\\Enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\Enemy\\BaseState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\Enemy\\BaseState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\Player\\AttackFinish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\Player\\AttackFinish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\General\\PhysicsCheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\General\\PhysicsCheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\General\\Attack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\General\\Attack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\General\\Character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\General\\Character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\Player\\PlayerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\Player\\PlayerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 20,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\UI\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\UIManager.cs",
+              "ToolTip": "D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\UI\\UIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\UIManager.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwCEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T17:26:41.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InitalLoad.cs",
+              "DocumentMoniker": "D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\Transition\\InitalLoad.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Transition\\InitalLoad.cs",
+              "ToolTip": "D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\Transition\\InitalLoad.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Transition\\InitalLoad.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAMuSURBVDhP7dA9bBN3GAbw5/8/c058PtuJHH\u002BEJKUJjcFRQ4YqCigqE1OXChThgVbt0kpdqCLoECEmJJwuRYwMrZRGlRsRtUUsyJVojYOUoaiJgPNHbJqeE2r7bJ/tc\u002BL7ZqoURWxVN37TuzyPHr3AG/8V\u002Bfd4svtkoFAuBFa3ViGUBSiagpA7hEHfYBvAzsrcChqNxtE7z\u002B7wS38steNzcekEdyJ8I3mjJ/1Xulq8WqwAALVtm6SFNL/X2ftIs7QEa7MJnuUTPqcv4WE9CY5yX0U9Ue/Ozs5gTa8tqKqaMCzjWraYna436t/Ytp1gGObjyGKEhw1C0kKa5zn\u002BcrKYvLRZ3YxwRziM9o3C6/TCtE10je796eD09YA38PnyxvKHKTEV3G5sl91O99ZY/9hkqVXiG/uNHKV0majklkNoCEdIi0y/aL6ImJaJM0fPVEN8aLWf6y/LezKkjpTzuX11mNgKuUNNv8sfFJti08N68mN9Y\u002B/IXZmXu/JLAlLoODqG44H4ADABlmER6YtUzr599he/yx93uVzbB58ty/K3F05eeF/RlfGNfzZyV2aufDcRnHgv/jge2FV2f8tezv4AALTUKqFYL8JJnfD2eP8UJOFmb29v6WCZZVlO2ZaPiS3RXd\u002Bvw7Zt/uHfD4/l6/mejtaBZVqB6K3oCFbAUABgKANKKQghWk7MtQgh5sHCptoMG5oxf/fZ3cnUdgqGZbybLCbnb6/fDmdrWVi29YFu6V8cf3mco0OeIYS5MFRTRUbKINPOHOwCABiKUSMW\u002BXH2rdnCVGgKlNLChH8icT56XhrxjoChzGMQ/MTW2a7j9PBpMAYDoSYgX8\u002BPTwYnr97bvLfv6/FB6koot8u5pfzSz3Mzc7/O9M7wz6Xn4w7qyF2curh2qv9Ue313fQAVpPLz\u002BXUAIGkhzTNO5svkVvLSU\u002Bnp\u002BAA3gNG\u002BUfAsD93SoZrq/W63\u002B8nCuYXa4eWvQ2zbJmuZNXdVr34mtsRPH4mPUFEqIIRg2DOMIX7od8thLSyeW2weDr8OJYTYsydn2y7L9b2LdcUM3Yh19E5M0ZSYaqkxzdS\u002BLjaKyuHgG/\u002BfVx3sgSpUKXsKAAAAAElFTkSuQmCC",
+              "WhenOpened": "2026-04-19T17:26:41.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FloatEventSO.cs",
+              "DocumentMoniker": "D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\ScriptableObject\\FloatEventSO.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScriptableObject\\FloatEventSO.cs",
+              "ToolTip": "D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\ScriptableObject\\FloatEventSO.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScriptableObject\\FloatEventSO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T17:26:41.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DataDefination.cs",
+              "DocumentMoniker": "D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\Save Load\\DataDefination.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Save Load\\DataDefination.cs",
+              "ToolTip": "D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\Save Load\\DataDefination.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Save Load\\DataDefination.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T17:26:41.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Data.cs",
+              "DocumentMoniker": "D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\Save Load\\Data.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Save Load\\Data.cs",
+              "ToolTip": "D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\Save Load\\Data.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Save Load\\Data.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAuwBEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T17:26:41.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DataManager.cs",
+              "DocumentMoniker": "D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\Save Load\\DataManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Save Load\\DataManager.cs",
+              "ToolTip": "D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\Save Load\\DataManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Save Load\\DataManager.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAwCEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T17:26:41.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SceneLoader.cs",
+              "DocumentMoniker": "D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\Transition\\SceneLoader.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Transition\\SceneLoader.cs",
+              "ToolTip": "D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\Transition\\SceneLoader.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Transition\\SceneLoader.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAwEkAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T17:26:41.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ISaveable.cs",
+              "DocumentMoniker": "D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\Save Load\\ISaveable.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Save Load\\ISaveable.cs",
+              "ToolTip": "D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\Save Load\\ISaveable.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Save Load\\ISaveable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T17:26:41.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SavePoint.cs",
+              "DocumentMoniker": "D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\Save Load\\SavePoint.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Save Load\\SavePoint.cs",
+              "ToolTip": "D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\Save Load\\SavePoint.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Save Load\\SavePoint.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAIwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T17:26:41.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\UI\\Menu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\Menu.cs",
+              "ToolTip": "D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\UI\\Menu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\Menu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T17:26:41.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FadeEventSO.cs",
+              "DocumentMoniker": "D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\ScriptableObject\\FadeEventSO.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScriptableObject\\FadeEventSO.cs",
+              "ToolTip": "D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\ScriptableObject\\FadeEventSO.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScriptableObject\\FadeEventSO.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvxMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T17:26:41.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FadeCanvas.cs",
+              "DocumentMoniker": "D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\UI\\FadeCanvas.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\FadeCanvas.cs",
+              "ToolTip": "D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\UI\\FadeCanvas.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\FadeCanvas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T17:26:41.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Enums.cs",
+              "DocumentMoniker": "D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\Utilities\\Enums.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Utilities\\Enums.cs",
+              "ToolTip": "D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\Utilities\\Enums.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Utilities\\Enums.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA+wAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T17:26:41.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GameSceneSO.cs",
+              "DocumentMoniker": "D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\ScriptableObject\\GameSceneSO.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScriptableObject\\GameSceneSO.cs",
+              "ToolTip": "D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\ScriptableObject\\GameSceneSO.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScriptableObject\\GameSceneSO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T17:26:41.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TeleportPoint.cs",
+              "DocumentMoniker": "D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\Transition\\TeleportPoint.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Transition\\TeleportPoint.cs",
+              "ToolTip": "D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\Transition\\TeleportPoint.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Transition\\TeleportPoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T17:26:41.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Chest.cs",
+              "DocumentMoniker": "D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\General\\Chest.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\General\\Chest.cs",
+              "ToolTip": "D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\General\\Chest.cs",
+              "RelativeToolTip": "Assets\\Scripts\\General\\Chest.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAIwBgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T17:26:41.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Sign.cs",
+              "DocumentMoniker": "D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\Player\\Sign.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Sign.cs",
+              "ToolTip": "D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\Player\\Sign.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\Sign.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T17:26:41.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IInteractable.cs",
+              "DocumentMoniker": "D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\Utilities\\IInteractable.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Utilities\\IInteractable.cs",
+              "ToolTip": "D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\Utilities\\IInteractable.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Utilities\\IInteractable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T17:26:41.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AudioDefination.cs",
+              "DocumentMoniker": "D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\Audio\\AudioDefination.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Audio\\AudioDefination.cs",
+              "ToolTip": "D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\Audio\\AudioDefination.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Audio\\AudioDefination.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T17:26:41.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayAudioEventSO.cs",
+              "DocumentMoniker": "D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\ScriptableObject\\PlayAudioEventSO.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScriptableObject\\PlayAudioEventSO.cs",
+              "ToolTip": "D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\ScriptableObject\\PlayAudioEventSO.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScriptableObject\\PlayAudioEventSO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T17:26:41.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AudioManager.cs",
+              "DocumentMoniker": "D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\Audio\\AudioManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Audio\\AudioManager.cs",
+              "ToolTip": "D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\Audio\\AudioManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Audio\\AudioManager.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwCYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T17:26:41.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "VoidEventSO.cs",
+              "DocumentMoniker": "D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\ScriptableObject\\VoidEventSO.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScriptableObject\\VoidEventSO.cs",
+              "ToolTip": "D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\ScriptableObject\\VoidEventSO.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScriptableObject\\VoidEventSO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T17:26:41.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CameraControl.cs",
+              "DocumentMoniker": "D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\Utilities\\CameraControl.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Utilities\\CameraControl.cs",
+              "ToolTip": "D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\Utilities\\CameraControl.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Utilities\\CameraControl.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAIwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T17:26:41.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CharacterEventSO.cs",
+              "DocumentMoniker": "D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\ScriptableObject\\CharacterEventSO.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScriptableObject\\CharacterEventSO.cs",
+              "ToolTip": "D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\ScriptableObject\\CharacterEventSO.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScriptableObject\\CharacterEventSO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T17:26:41.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PlayerStatBar.cs",
+              "DocumentMoniker": "D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\UI\\PlayerStatBar.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\PlayerStatBar.cs",
+              "ToolTip": "D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\UI\\PlayerStatBar.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\PlayerStatBar.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAcwCUAAAAQAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAMuSURBVDhP7dA9bBN3GAbw5/8/c058PtuJHH\u002BEJKUJjcFRQ4YqCigqE1OXChThgVbt0kpdqCLoECEmJJwuRYwMrZRGlRsRtUUsyJVojYOUoaiJgPNHbJqeE2r7bJ/tc\u002BL7ZqoURWxVN37TuzyPHr3AG/8V\u002Bfd4svtkoFAuBFa3ViGUBSiagpA7hEHfYBvAzsrcChqNxtE7z\u002B7wS38steNzcekEdyJ8I3mjJ/1Xulq8WqwAALVtm6SFNL/X2ftIs7QEa7MJnuUTPqcv4WE9CY5yX0U9Ue/Ozs5gTa8tqKqaMCzjWraYna436t/Ytp1gGObjyGKEhw1C0kKa5zn\u002BcrKYvLRZ3YxwRziM9o3C6/TCtE10je796eD09YA38PnyxvKHKTEV3G5sl91O99ZY/9hkqVXiG/uNHKV0majklkNoCEdIi0y/aL6ImJaJM0fPVEN8aLWf6y/LezKkjpTzuX11mNgKuUNNv8sfFJti08N68mN9Y\u002B/IXZmXu/JLAlLoODqG44H4ADABlmER6YtUzr599he/yx93uVzbB58ty/K3F05eeF/RlfGNfzZyV2aufDcRnHgv/jge2FV2f8tezv4AALTUKqFYL8JJnfD2eP8UJOFmb29v6WCZZVlO2ZaPiS3RXd\u002Bvw7Zt/uHfD4/l6/mejtaBZVqB6K3oCFbAUABgKANKKQghWk7MtQgh5sHCptoMG5oxf/fZ3cnUdgqGZbybLCbnb6/fDmdrWVi29YFu6V8cf3mco0OeIYS5MFRTRUbKINPOHOwCABiKUSMW\u002BXH2rdnCVGgKlNLChH8icT56XhrxjoChzGMQ/MTW2a7j9PBpMAYDoSYgX8\u002BPTwYnr97bvLfv6/FB6koot8u5pfzSz3Mzc7/O9M7wz6Xn4w7qyF2curh2qv9Ue313fQAVpPLz\u002BXUAIGkhzTNO5svkVvLSU\u002Bnp\u002BAA3gNG\u002BUfAsD93SoZrq/W63\u002B8nCuYXa4eWvQ2zbJmuZNXdVr34mtsRPH4mPUFEqIIRg2DOMIX7od8thLSyeW2weDr8OJYTYsydn2y7L9b2LdcUM3Yh19E5M0ZSYaqkxzdS\u002BLjaKyuHgG/\u002BfVx3sgSpUKXsKAAAAAElFTkSuQmCC",
+              "WhenOpened": "2026-04-19T17:26:41.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "BeeChaseState.cs",
+              "DocumentMoniker": "D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\Enemy\\BeeChaseState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\BeeChaseState.cs",
+              "ToolTip": "D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\Enemy\\BeeChaseState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\BeeChaseState.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAIwCkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T17:26:41.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "BeePatrolState.cs",
+              "DocumentMoniker": "D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\Enemy\\BeePatrolState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\BeePatrolState.cs",
+              "ToolTip": "D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\Enemy\\BeePatrolState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\BeePatrolState.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwCIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T17:26:41.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Bee.cs",
+              "DocumentMoniker": "D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\Enemy\\Bee.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Bee.cs",
+              "ToolTip": "D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\Enemy\\Bee.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Bee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T17:26:41.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "SnailSkillState.cs",
+              "DocumentMoniker": "D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\Enemy\\SnailSkillState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\SnailSkillState.cs",
+              "ToolTip": "D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\Enemy\\SnailSkillState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\SnailSkillState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T17:26:41.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SnailPatrolState.cs",
+              "DocumentMoniker": "D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\Enemy\\SnailPatrolState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\SnailPatrolState.cs",
+              "ToolTip": "D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\Enemy\\SnailPatrolState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\SnailPatrolState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T17:26:41.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Snail.cs",
+              "DocumentMoniker": "D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\Enemy\\Snail.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Snail.cs",
+              "ToolTip": "D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\Enemy\\Snail.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Snail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T17:26:41.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "BoarChaseState.cs",
+              "DocumentMoniker": "D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\Enemy\\BoarChaseState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\BoarChaseState.cs",
+              "ToolTip": "D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\Enemy\\BoarChaseState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\BoarChaseState.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T17:26:41.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "BoarPatrolState.cs",
+              "DocumentMoniker": "D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\Enemy\\BoarPatrolState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\BoarPatrolState.cs",
+              "ToolTip": "D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\Enemy\\BoarPatrolState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\BoarPatrolState.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwBoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T17:26:41.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Boar.cs",
+              "DocumentMoniker": "D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\Enemy\\Boar.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Boar.cs",
+              "ToolTip": "D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\Enemy\\Boar.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Boar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T17:26:41.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\Enemy\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Enemy.cs",
+              "ToolTip": "D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\Enemy\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Enemy.cs",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAmwAUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T17:26:41.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "BaseState.cs",
+              "DocumentMoniker": "D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\Enemy\\BaseState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\BaseState.cs",
+              "ToolTip": "D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\Enemy\\BaseState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\BaseState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T17:26:41.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "AttackFinish.cs",
+              "DocumentMoniker": "D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\Player\\AttackFinish.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\AttackFinish.cs",
+              "ToolTip": "D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\Player\\AttackFinish.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\AttackFinish.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T17:26:41.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "PhysicsCheck.cs",
+              "DocumentMoniker": "D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\General\\PhysicsCheck.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\General\\PhysicsCheck.cs",
+              "ToolTip": "D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\General\\PhysicsCheck.cs",
+              "RelativeToolTip": "Assets\\Scripts\\General\\PhysicsCheck.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAADwvyIAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T17:26:41.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Attack.cs",
+              "DocumentMoniker": "D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\General\\Attack.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\General\\Attack.cs",
+              "ToolTip": "D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\General\\Attack.cs",
+              "RelativeToolTip": "Assets\\Scripts\\General\\Attack.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAewA0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T17:26:41.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Character.cs",
+              "DocumentMoniker": "D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\General\\Character.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\General\\Character.cs",
+              "ToolTip": "D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\General\\Character.cs",
+              "RelativeToolTip": "Assets\\Scripts\\General\\Character.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAqwEcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T17:26:41.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\Player\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerController.cs",
+              "ToolTip": "D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\Player\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAADwv2MAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T17:26:41.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerAnimation.cs",
+              "DocumentMoniker": "D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\Player\\PlayerAnimation.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerAnimation.cs",
+              "ToolTip": "D:\\Unity3D\\Project\\2DAdventure\\Assets\\Scripts\\Player\\PlayerAnimation.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerAnimation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T17:26:41.327Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
